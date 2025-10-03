@@ -1,0 +1,10 @@
+C:\Users\aluno\Desktop\programas C#\Array10preenchimento\Array10preenchimento\bin\Debug\Array10preenchimento.exe.config
+C:\Users\aluno\Desktop\programas C#\Array10preenchimento\Array10preenchimento\bin\Debug\Array10preenchimento.exe
+C:\Users\aluno\Desktop\programas C#\Array10preenchimento\Array10preenchimento\bin\Debug\Array10preenchimento.pdb
+C:\Users\aluno\Desktop\programas C#\Array10preenchimento\Array10preenchimento\obj\Debug\Array10preenchimento.csproj.AssemblyReference.cache
+C:\Users\aluno\Desktop\programas C#\Array10preenchimento\Array10preenchimento\obj\Debug\Array10preenchimento.Form1.resources
+C:\Users\aluno\Desktop\programas C#\Array10preenchimento\Array10preenchimento\obj\Debug\Array10preenchimento.Properties.Resources.resources
+C:\Users\aluno\Desktop\programas C#\Array10preenchimento\Array10preenchimento\obj\Debug\Array10preenchimento.csproj.GenerateResource.cache
+C:\Users\aluno\Desktop\programas C#\Array10preenchimento\Array10preenchimento\obj\Debug\Array10preenchimento.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Desktop\programas C#\Array10preenchimento\Array10preenchimento\obj\Debug\Array10preenchimento.exe
+C:\Users\aluno\Desktop\programas C#\Array10preenchimento\Array10preenchimento\obj\Debug\Array10preenchimento.pdb
